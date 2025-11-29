@@ -11,23 +11,23 @@ The repository is organized in a way that makes it easy to navigate:
 ## Training Schedule Overview
 
 
-```markdown
+markdown
 ![Training Schedule Overview](assets/Training Schedule Overview.jpeg)
-```
+
 
 ## Training Roadmap
 
 
-```markdown
+markdown
 ![Training Schedule Overview](assets/Training Roadmap.jpeg)
-```
+
 
 ## Training Modules
 
 
-```markdown
+markdown
 ![Training Modules](assets/Training Modules.jpg)
-```
+
 
 
 ```
