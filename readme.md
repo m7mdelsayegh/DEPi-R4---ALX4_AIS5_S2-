@@ -4,19 +4,19 @@ Welcome to the **DEPI Data Engineering Training Repository**. This repository co
 
 ## Training Schedule Overview
 
-![Training Schedule Overview](assets/Training Schedule Overview.jpeg)
+![Training Schedule Overview](assets/Training_Schedule_Overview.jpeg)
 
 ---
 
 ## Training Roadmap
 
-![Training Roadmap](assets/Training Roadmap.jpeg)
+![Training Roadmap](assets/Training_Roadmap.jpeg)
 
 ---
 
 ## Training Modules
 
-![Training Modules](assets/Training Modules.jpg)
+![Training Modules](assets/Training_Modules.jpg)
 
 ---
 
