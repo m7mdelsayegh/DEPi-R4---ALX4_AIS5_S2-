@@ -2,34 +2,28 @@
 
 Welcome to the **DEPI Data Engineering Training Repository**. This repository contains all the materials, resources, and references for the DEPI Data Engineer track. It is designed to provide a structured learning path for participants, helping them access all training sessions, exercises, and supplementary content in one place.
 
-## Repository Structure
-
-The repository is organized in a way that makes it easy to navigate:
-
-
-
 ## Training Schedule Overview
 
+![Training Schedule Overview](assets/Training_Schedule_Overview.jpeg)
 
-markdown
-![Training Schedule Overview](assets/Training Schedule Overview.jpeg)
-
+---
 
 ## Training Roadmap
 
+![Training Roadmap](assets/Training_Roadmap.jpeg)
 
-markdown
-![Training Schedule Overview](assets/Training Roadmap.jpeg)
-
+---
 
 ## Training Modules
 
+![Training Modules](assets/Training_Modules.jpg)
 
-markdown
-![Training Modules](assets/Training Modules.jpg)
+---
 
 
+## Repository Structure
 
+The repository is organized in a way that makes it easy to navigate:
 ```
 repo-root/
 ├── README.md
