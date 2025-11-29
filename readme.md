@@ -28,8 +28,9 @@ The repository is organized in a way that makes it easy to navigate:
 repo-root/
 ├── README.md
 ├── assets/
-│   ├── schedule.png
-│   └── modules.png
+│   ├── Training_Modules.jpg
+│   ├── Training_Roadmap.jpeg
+│   └──Training_Schedule_Overview.jpeg 
 └── Materials/
     ├── Session_01/
     └── Session_02/
