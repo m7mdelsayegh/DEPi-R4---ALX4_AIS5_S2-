@@ -30,7 +30,7 @@ repo-root/
 ├── assets/
 │   ├── Training_Modules.jpg
 │   ├── Training_Roadmap.jpeg
-│   └──Training_Schedule_Overview.jpeg 
+│   └── Training_Schedule_Overview.jpeg 
 └── Materials/
     ├── Session_01/
     └── Session_02/
