@@ -5,7 +5,7 @@ These links are especially helpful for beginners and intermediate learners.
 
 ---
 
-## 🔹 1. Python String Methods – :contentReference[oaicite:0]{index=0}
+## 🔹 1. Python String Methods 
 🔗 https://www.w3schools.com/python/python_strings_methods.asp  
 
 ### 📖 Description:
@@ -25,7 +25,7 @@ This page provides a complete reference for all Python string methods with:
 
 ---
 
-## 🔹 2. :contentReference[oaicite:1]{index=1} (Online Python Environment)
+## 🔹 2. :Google Colab
 🔗 https://colab.research.google.com/  
 
 ### 📖 Description:
