@@ -32,6 +32,10 @@ repo-root/
 │   ├── Training_Roadmap.jpeg
 │   └── Training_Schedule_Overview.jpeg 
 └── Materials/
-    ├── Session_01/
-    └── Session_02/
+│   ├── Session_01/
+│   └── ....../
+└── Tasks/
+    ├── Task_01/
+    └── ...../
+
 ```
