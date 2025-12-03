@@ -22,7 +22,7 @@ This page provides a complete reference for all Python string methods with:
 
 ---
 
-## 🔹 2. :Google Colab
+## 🔹 2. Google Colab
 🔗 https://colab.research.google.com/  
 
 ### 📖 Description:
