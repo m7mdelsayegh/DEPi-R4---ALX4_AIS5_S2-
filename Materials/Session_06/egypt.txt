@@ -1,0 +1,9 @@
+Cairo,Capital,20000000
+Alexandria,Coastal City,5500000
+Giza,Historical City,9000000
+Luxor,Historical City,500000
+Aswan,Touristic City,1600000
+Sharm El Sheikh,73000
+Hurghada,Resort City,400000
+Mansoura,City,700000
+Tanta,City
